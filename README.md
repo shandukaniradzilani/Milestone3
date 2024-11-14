@@ -1,1 +1,1 @@
-# Milestone3
+# Empowering the Nation - Course Registration Platform
